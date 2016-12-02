@@ -34,6 +34,8 @@ MySQL 外部XA及其在分布式事务中的应用分析
 
 MySQL 查询优化浅析
 
+管中窥豹——MySQL(InnoDB)死锁分析之道
+
 Oracle RAC资源管理算法与Cache-Fusion实现浅析
 
 # Programming
@@ -48,6 +50,8 @@ CPU架构浅析
 排队论及其应用浅析
 
 硬件体系架构浅析
+
+高性能C/C++系统性能优化：从理论到实践
 
 # Distributed
 数据一致性-分区可用性-性能——多副本强同步数据库系统实现之我见
